@@ -1,0 +1,56 @@
+{perceptual/
+
+score = 10 / 32
+
+Fri Dec 17 2021 20:31:09 GMT+0100 (West Africa Standard Time)
+
+D,B,A,A,B,B,D,C,E,B,B,B,C,B,D,D,D,E,A,A,D,A,A,B,D,E,E,A,A,B,D,32}
+
+{dynamics ['C', 'A', 'C', 'C', 'D', 'C', 'A', 'C', 'A', 'D', 'A', 'B', 'A', 'A', 'A', 'B', 'E', 18, 19, 20, 'D', 22, 23, 24, 25]}
+
+{perceptual/
+
+score = 14 / 32
+
+Sat Dec 18 2021 18:51:51 GMT+0100 (West Africa Standard Time)
+
+[D,B,A,E,A,C,D,A,E,D,B,A,B,D,D,C,D,E,C,B,D,A,B,B,D,D,E,A,B,B,C,32]}
+
+{sequences
+
+    score = 27 / 64
+    
+    Sat Dec 18 2021 19:07:58 GMT+0100 (West Africa Standard Time)
+    
+    [C,D,C,D,A,C,C,F,B,E,C,F,C,E,D,A,B,G,F,F,E,I,A,I,I,I,I,E,D,E,A,E,H,F,G,E,H,I,C,D,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,32.2]}
+
+
+{/interpolation/
+
+    score = 8 / 20
+    
+    Sat Dec 18 2021 22:09:55 GMT+0100 (West Africa Standard Time)
+    
+    [3,4,6,4,5,27,3,15,27,20,75,29,16,2,12,3,28,11,,20]}
+
+{/verbalprecision/
+         score = 21 / 30 
+         Wed Jan 05 2022 12:47:09 GMT+0100 (West Africa Standard Time)
+          [b,d,d,b,a,b,b,d,d,d,a,c,d,a,b,c,c,a,c,a,a,b,c,d,d,a,a,b,d,30]
+
+
+    }
+
+{
+    0d 0h 0m 7s
+
+
+/formation/
+
+score = 37 / 70
+
+Thu Jan 06 2022 16:32:55 GMT+0100 (West Africa Standard Time)
+
+[Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,N,Y,N,N,N,N,N,N,N,Y,Y,N,N,Y,N,N,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,N,Y,N,Y,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,N,N,Y,Y,Y,Y,Y,Y,Y,N]
+correct = ['N', 'N', 'Y', 'Y', 'Y', 'Y', 'N', 'N', 'Y', 'Y', 'Y', 'N', 'Y', 'Y', 'N', 'N', 'Y', 'Y', 'Y', 'Y', 'N', 'Y', 'N', 'N', 'Y', 'N', 'Y', 'Y', 'N', 'Y', 'Y', 'N', 'Y', 'N', 'N', 'Y', 'N', 'N', 'Y', 'Y', 'N', 'N', 'Y', 'Y', 'N', 'N', 'Y', 'N', 'Y', 'N', 'N', 'N', 'N', 'N', 'Y', 'Y', 'Y', 'Y', 'N', 'N', 'N', 'N', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y']
+}
