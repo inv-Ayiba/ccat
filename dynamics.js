@@ -9,7 +9,7 @@ options = ['ABCDEF', 'ABCDEF', 'ABCDEF', 'ABCDEF', 'ABCDEF', 'ABCDEF', 'ABCDEF',
 placesAns=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
 totalCount = nums.length - 1
 
-filename = "/dynamics/"
+filename = "dynamics/"
 minutes= 10.05
 function score(answer,placesAns){
     score = 0

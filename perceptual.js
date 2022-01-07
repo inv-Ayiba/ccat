@@ -10,7 +10,7 @@ options = ['ABCD', 'ABCDE', 'ABCD', 'ABCDE', 'ABCD', 'ABCDE', 'ABCD', 'ABCDE', '
 placesAns=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
 totalCount = nums.length - 1
 
-filename = "/perceptual/"
+filename = "perceptual/"
 minutes= 10.05
 function score(answer,placesAns){
     score = 0
