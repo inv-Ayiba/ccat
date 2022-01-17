@@ -54,3 +54,13 @@ Thu Jan 06 2022 16:32:55 GMT+0100 (West Africa Standard Time)
 [Y,Y,Y,N,N,N,N,Y,Y,N,Y,N,Y,N,Y,N,Y,N,N,N,N,N,N,N,Y,Y,N,N,Y,N,N,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,N,Y,N,Y,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,N,N,N,Y,Y,Y,Y,Y,Y,Y,N]
 correct = ['N', 'N', 'Y', 'Y', 'Y', 'Y', 'N', 'N', 'Y', 'Y', 'Y', 'N', 'Y', 'Y', 'N', 'N', 'Y', 'Y', 'Y', 'Y', 'N', 'Y', 'N', 'N', 'Y', 'N', 'Y', 'Y', 'N', 'Y', 'Y', 'N', 'Y', 'N', 'N', 'Y', 'N', 'N', 'Y', 'Y', 'N', 'N', 'Y', 'Y', 'N', 'N', 'Y', 'N', 'Y', 'N', 'N', 'N', 'N', 'N', 'Y', 'Y', 'Y', 'Y', 'N', 'N', 'N', 'N', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y']
 }
+
+{
+    numberskills/
+
+score = 23 / 40
+
+Mon Jan 17 2022 23:34:38 GMT+0100 (West Africa Standard Time)
+
+[a,b,e,c,a,b,b,e,b,d,c,a,c,b,d,d,e,a,e,b,b,c,a,e,c,c,27,e,29,30,31,32,33,34,35,36,37,38,39,40]
+}
