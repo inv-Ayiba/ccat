@@ -64,3 +64,92 @@ Mon Jan 17 2022 23:34:38 GMT+0100 (West Africa Standard Time)
 
 [a,b,e,c,a,b,b,e,b,d,c,a,c,b,d,d,e,a,e,b,b,c,a,e,c,c,27,e,29,30,31,32,33,34,35,36,37,38,39,40]
 }
+
+{
+    vocabulary/ score = 18 / 39 Tue Jan 18 2022 18:36:06 GMT+0100 (West Africa Standard Time) [a,c,c,d,b,c,c,a,9,b,b,c,c,c,d,d,b,d,d,c,d,a,b,b,a,c,c,c,c,c,d,32,33,34,35,36,37,38,39,40]
+
+}
+
+{71/70
+
+    -1d -1h -1m -28s
+    
+    
+    formation/
+    
+    score = 43 / 70
+    
+    Tue Jan 18 2022 23:08:51 GMT+0100 (West Africa Standard Time)
+    
+    [Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,N,N,Y,Y,N,N,Y,N,N,Y,Y,Y,Y,Y,N,N,N,N,N,N,N,Y,N,Y,Y,N,N,N,N,N,N,Y,Y,Y,N,N,Y,N,N,N,N,Y,Y,N,Y,Y,Y,Y]}
+{
+    3dtest/
+
+score = 14 / 30
+
+Tue Jan 18 2022 23:45:44 GMT+0100 (West Africa Standard Time)
+
+[iii,i,iv,iv,i,v,iii,i,i,ii,ii,iii,iv,ii,v,i,iii,ii,19,20,21,22,23,24,25,26,27,28,29,30]
+}
+{
+    verbalprecision/ score = 20 / 30 Tue Jan 18 2022 23:56:02 GMT+0100 (West Africa Standard Time) [b,b,d,b,a,b,b,c,d,d,c,a,d,c,b,c,c,a,c,b,a,b,c,d,d,a,a,c,d,a]
+}
+{
+    test:'reasoning/',
+
+score : 22 / 36,
+
+time: 'Wed Jan 19 2022 14:31:09 GMT+0100 (West Africa Standard Time)',
+
+answers:[D,A,B,E,C,C,D,E,A,D,E,B,B,C,D,C,E,E,A,B,A,E,E,E,E,E,E,E,E,30,31,32,33,34,35,36],
+
+correct:[D,A,B,E,C,C,D,E,A,D,E,B,B,C,D,C,E,D,A,B,A,E,E,D,C,B,A,D,A,D,E,A,D,B,C,D],
+
+wronganswers:[18, : ,D,24, : ,D,25, : ,C,26, : ,B,27, : ,A,28, : ,D,29, : ,A,30, : ,D,31, : ,E,32, : ,A,33, : ,D,34, : ,B,35, : ,C,36, : ,D]
+}
+
+{}
+{}
+{}
+{}
+
+{}
+{}
+{}
+{}
+
+{}
+{}
+{}
+{}
+
+{}
+{}
+{}
+{}
+
+{}
+{}
+{}
+{}
+
+
+{}
+{}
+{}
+{}
+
+{}
+{}
+{}
+{}
+
+{}
+{}
+{}
+{}
+
+{}
+{}
+{}
+{}

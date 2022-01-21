@@ -54,7 +54,7 @@ function genq(){document.getElementById("numtit").innerText = count+1 + "/" + nu
     if (count == answer.length){
         document.getElementById("ques").src = ""
     var now = new Date();
-    document.getElementById("nums").innerText = filename +"\n \n" + "score = " + score(answer,placesAns) +"\n \n" + now +"\n \n" +"[" + placesAns + "]"
+    document.getElementById("nums").innerText = "test:'" + filename + "'," +"\n \n" + "score : " + score(answer,placesAns) +",\n \n" + "time: '" +now +"',\n \n" + "answers:" +"[" + placesAns + "]," +"\n \n" + "correct:" +"[" + answer + "]," +"\n \n" + "wronganswers:" +"[" + wrongs(placesAns,answer) + "]"
     document.getElementById("ata").innerHTML=""
     return
     }
@@ -180,6 +180,27 @@ function timer(){const minute = 1000 * 60;
          
       }
     }, 1000);}
+    a="a"
+b="b"
+c="c"
+d="d"
+e="e"
+//if capital add the rest :) , I'm not your daddy
+function wrongs(given,correct){
+    let holdwrongs =[]
+    if (given.length==correct.length){
+for (let index = 0; index < given.length; index++) {
+    const element = given[index];
+    if(element!=correct[index]){
+        holdwrongs.push([given[index],index+1, ":",correct[index]])
+    }
+    
+}
+return(holdwrongs)
+    }
+    else{return("arrays not the same")}
+
+}
     
 // var seq = json.parse(sequences)
 // alert(seq[0].name)
