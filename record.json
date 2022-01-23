@@ -106,9 +106,27 @@ answers:[D,A,B,E,C,C,D,E,A,D,E,B,B,C,D,C,E,E,A,B,A,E,E,E,E,E,E,E,E,30,31,32,33,3
 correct:[D,A,B,E,C,C,D,E,A,D,E,B,B,C,D,C,E,D,A,B,A,E,E,D,C,B,A,D,A,D,E,A,D,B,C,D],
 
 wronganswers:[18, : ,D,24, : ,D,25, : ,C,26, : ,B,27, : ,A,28, : ,D,29, : ,A,30, : ,D,31, : ,E,32, : ,A,33, : ,D,34, : ,B,35, : ,C,36, : ,D]
+//looked through mistakes
 }
 
-{}
+{
+    //this is hand written , issues with the js file of constructs
+    test:"constructs"
+    score: 48/60
+    time: 'Wed Jan 19 2022 19:09:41 GMT+0100 (West Africa Standard Time)',
+    wronganswers:[ [ 'Y', 7, ':', 'N' ],
+    [ 'N', 14, ':', 'Y' ],
+    [ 'Y', 22, ':', 'N' ],
+    [ 'Y', 28, ':', 'N' ],
+    [ 'Y', 34, ':', 'N' ],
+    [ 'Y', 37, ':', 'N' ],
+    [ 'Y', 39, ':', 'N' ],
+    [ 'N', 54, ':', 'Y' ],
+    [ 31.1, 57, ':', 'Y' ],
+    [ 31.2, 58, ':', 'Y' ],
+    [ 32.1, 59, ':', 'N' ],
+    [ 32.2, 60, ':', 'N' ] ]
+}
 {}
 {}
 {}
