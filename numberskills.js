@@ -85,6 +85,7 @@ function loop(){
  
     
     colocou=0
+    console.log("micpoopypants",options[count].length)
         for (var j=0;j<options[count].length;j++){
        targ= "ata"
        
