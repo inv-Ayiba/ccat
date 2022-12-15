@@ -157,7 +157,22 @@ correct:[b,b,d,b,a,b,c,d,d,b,c,c,d,b,c,c,b,a,c,a,a,a,c,d,d,a,a,b,d,a],
 
 wronganswers:[d,2,:,b,c,8,:,d,a,14,:,b,c,17,:,b,d,18,:,a,b,22,:,a,d,30,:,a]}
 
-{}
+{
+    0d 0h 0m 6s
+
+
+test:'constructs/',
+
+score : 42 / 60,
+
+time: 'Thu Dec 15 2022 17:35:30 GMT+0100 (West Africa Standard Time)',
+
+answers:[N,Y,N,Y,Y,N,N,N,N,N,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,Y,N,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y,N,N,N,N,Y,N,N,Y,N,Y,N,Y,N,Y,N,Y,N,Y,31.1,31.2,32.1,32.2],
+
+correct:[N,Y,N,Y,Y,N,N,N,Y,N,Y,N,N,Y,N,N,Y,Y,Y,N,Y,N,Y,N,Y,N,Y,N,N,Y,N,N,Y,N,N,Y,N,Y,N,Y,N,N,Y,N,N,N,N,N,N,N,N,N,N,Y,N,N,Y,Y,N,N],
+
+
+}
 {}
 {}
 {}
