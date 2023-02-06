@@ -197,7 +197,19 @@ time~ 'Sat Dec 17 2022 08:54:57 GMT+0100 (West Africa Standard Time)'
 
     time~ 'Sat Dec 17 2022 08:54:57 GMT+0100 (West Africa Standard Time)'
 }
-{}
+{
+    test:'deduction/',
+
+score : 8 / 25,
+
+time: 'Tue Dec 27 2022 22:41:57 GMT+0100 (West Africa Standard Time)',
+
+answers:[c,b,c,a,c,b,c,d,c,f,f,g,c,a,a,b,b,b,b,c,b,b,a,c,c],
+
+correct:[c,b,d,a,e,h,bg,d,c,f,ae,g,d,a,b,a,e,c,e,f,a,d,cd,e,b],
+
+wronganswers:[c,3,:,d,c,5,:,e,b,6,:,h,c,7,:,bg,f,11,:,ae,c,13,:,d,a,15,:,b,b,16,:,a,b,17,:,e,b,18,:,c,b,19,:,e,c,20,:,f,b,21,:,a,b,22,:,d,a,23,:,cd,c,24,:,e,c,25,:,b]
+}
 
 {}
 {}
