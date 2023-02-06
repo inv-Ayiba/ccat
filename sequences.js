@@ -164,7 +164,7 @@ function timer(){const minute = 1000 * 60;
       + minutes + "m " + seconds + "s ";
     
       // If the count down is finished, write some text
-      if (distance < -1000 & count<totalCount) {
+      if (distance < 0 & count<totalCount) {
         clearInterval(x);
         document.getElementById("time").innerHTML = "EXPIRED";
         document.getElementById("ques").src = "DUNCE.png";
